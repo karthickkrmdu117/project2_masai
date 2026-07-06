@@ -1,3 +1,6 @@
 print("a")
 print("B")
-print("welcome")
+print("th")
+print("weds")
+print("kr")
+print("kk")
