@@ -1,2 +1,5 @@
 print("a")
 print("B")
+print("th")
+print("weds")
+print("kr")
